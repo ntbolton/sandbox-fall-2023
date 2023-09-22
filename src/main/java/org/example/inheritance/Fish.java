@@ -13,7 +13,7 @@ public class Fish extends Amphibian {
 
     @Override
     public void hunt() {
-
+        System.out.println("Fish is being hunted");
     }
 
     @Override

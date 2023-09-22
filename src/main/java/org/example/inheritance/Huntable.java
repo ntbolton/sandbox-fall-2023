@@ -4,4 +4,5 @@ public interface Huntable {
 
     void hunt();
     void track();
+
 }
