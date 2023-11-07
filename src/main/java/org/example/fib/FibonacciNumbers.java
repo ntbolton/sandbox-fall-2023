@@ -13,7 +13,7 @@ public class FibonacciNumbers {
 
 
 
-        for ( int x = 0; x <= 50; x++) {
+        for ( int x = 0; x <= 100; x++) {
             System.out.println(x + " : " + fn.fib(x));
         }
     }
